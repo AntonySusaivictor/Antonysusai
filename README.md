@@ -9,10 +9,9 @@ Welcome to my GitHub portfolio. I build data solutions that transform raw data i
 
 ##  Featured Projects
 
- **[Amazon Sales Dashboard](https://github.com/Antonysusai/amazon-sales-dashboard)**  
-Built a Power BI dashboard to forecast seasonal trends and identify cross-sell patterns using Python + Power Query.
-
-**[British Airways Revenue Forecasting](https://github.com/Antonysusai/british-airways-data-analysis)**  
+ **[Sales Analysis](https://github.com/Antonysusai/amazon-sales-dashboard)**  
+Built an apriori algorithm for customer segmentation and identify cross-selling patterns using Python. Use a Power BI dashboard to forecast seasonal trends and future sales trends
+**[British Airways](https://github.com/Antonysusai/british-airways-data-analysis)**  
 Time series + regression analysis to predict revenue drops; includes PDF reports and Jupyter notebooks.
 
 **[TATA Executive Report](https://github.com/Antonysusai/tata-powerbi-visualization)**  
